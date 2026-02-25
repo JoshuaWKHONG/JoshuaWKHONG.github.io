@@ -12,5 +12,5 @@ I recently completed Junior Data Engineer course at Generation Singapore and see
 - Microsoft Fabric
 - Microsoft Power BI
 
-- ## Contact
+## Contact
 You can reach me at [LinkedIn](https://www.linkedin.com/hongwonkeon) or [GitHub](https://github.com/JoshuaWKHONG).
